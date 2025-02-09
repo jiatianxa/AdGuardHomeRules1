@@ -79,3 +79,8 @@
 
 @@||000714.xyz^
 @@||blueskyxn.com^
+
+@@||raw.githubusercontent.com^
+@@||val.qq.com^$important
+@@||s.click.taobao.com^
+@@||ad.jiatianxa1.top^
